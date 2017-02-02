@@ -1,0 +1,8 @@
+{
+    "require": {
+        "clue/buzz-react": "^1.1",
+        "clue/redis-react": "^1.0",
+        "clue/zenity-react": "^0.4.0",
+        "react/react": "^0.4.2"
+    }
+}
